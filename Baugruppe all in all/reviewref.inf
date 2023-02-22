@@ -1,0 +1,65 @@
+﻿|***************************|
+    REFERENZ-INFORMATIONEN    
+|***************************|
+ Referenz Nr. 1 aus 1 
+
+Referenz:
+   TYP   : Ebene
+
+Status   : in geometry (body id -5778)
+
+
+Referenz-Besitzer:
+ Modell  :
+   NAME   : ECKTEIL 
+   TYP   : Teil
+ KE :
+
+    KE-Nummer       22
+    INTERNE KE-ID 832
+    Eltern = 181(#9) 794(#21) 4(#2) 292(#13) 
+    Kinder = 953(#23) 
+
+
+ MATERIALSCHNITT: Profil
+
+  NR.     ELEMENTNAME         INFORMATIONEN                                     
+  ---     -------------       -------------                                     
+   1      KE-Name             Definiert                                         
+   2      KE-Typ Profil       Volumenkörper                                     
+   3      Material            Entfernen                                         
+   4      Körper              Definiert                                         
+   4.1    Körper verwenden    Ausgewählt                                        
+   4.2    Ausgewählte Körper  Körper 1                                          
+   5      Schnitt             Definiert                                         
+   5.1    Ebene einrichten    Definiert                                         
+   5.1.1  Skizzierebene       Flä:F13(PROFIL_4)                                 
+   5.1.2  Ansichtsrichtung    Seite 1                                           
+   5.1.3  Orientierung        Unterseite                                        
+   5.1.4  Referenz            RECHTS:F2(BEZUGSEBENE)                            
+   5.2    Skizze              Definiert                                         
+   6      KE-Form             Volumenkörper                                     
+   7      Materialseite       Seite Zwei                                        
+   8      Richtung            Seite 2                                           
+   9      Tiefe               Definiert                                         
+   9.1    Seite Eins          Definiert                                         
+   9.1.1  Tiefe Seite Eins    Variable                                          
+   9.1.2  Wert                6.500                                             
+   9.2    Seite Zwei          Definiert                                         
+   9.2.1  Tiefe Seite Zwei    Variable                                          
+   9.2.2  Wert                5.000                                             
+
+    Schnittname = Section 1 
+
+
+    Bemaßungen des KE:
+    d72 = (  Angezeigt:) 5 General_Dims
+          (Gespeichert:) 5.0 ( 0.1, -0.1 ) 
+    d73 = (  Angezeigt:) 5.5 General_Dims
+          (Gespeichert:) 5.5 ( 0.1, -0.1 ) 
+    d74 = (  Angezeigt:) 6.5 General_Dims
+          (Gespeichert:) 6.5 ( 0.2, -0.2 ) 
+Beziehung                           Parameter                 Neuer Wert
+--------                           ---------                 --- -----
+
+*** Von diesesm KE gesteuerte Teilebeziehungen:
